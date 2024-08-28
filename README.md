@@ -1,4 +1,4 @@
-**Kinda Chamma (Developer)**
+**'Kinda Chamma (Developer)'**
 
 I'm a junior software developer sharing my experience throughout my academic journey and personal projects.
 
