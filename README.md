@@ -33,7 +33,7 @@ Main projects :
   <li><b>Europe Wisdom Project </b>: <i>Python, HTML, JS, SQL </i> | Worked on author name disambiguation, analyzing the proportion of female authors in publications throughout the years, tested the anomalies that could bias the results.</li>
   <li><b> French Robotics Championship '24</b>: <i>Atmega2560, Arduino</i> | Coded the movement of the grippers and the movements of the robot to collect plants and put them where needed. </li>
   <li><b>Tic-Tac-Toe Game</b>: <i>JavaFX and Scene Builder</i> | Two options: Human vs Human and Human vs AI, use an AI to have a difficulty level, use transitions.</li>
-  <li><b>Model a Percolation System</b>: <i>Java</i> | Used the model to determine with what probability a system percolates if sites areset to open with probability p</li>
+  <li><b>Model a Percolation System</b>: <i>Java</i> | Used the model to determine with what probability a system percolates if sites areset to open with probability p.</li>
   <li><b>Huffman Coding</b>: <i>Java</i> | Program that reads a text file, computes the frequency for each character, and creates a Huffman tree.</li>
   <li><b>Software Platform for Monitoring an IT infrastructure</b>: <i>Bash and python</i> | Parse a website and save specific informations, list live alerts, develop a web interface with graphs.</li>
   <li><b> Robot Arm Color Detector </b>: <i> Atmega2560, Arduino</i> | Used Color Captors to distinguish colors, implemented 3D pieces to create the arm using Fusion360, developed a Bluetooth-enabled color selection application.</li>
