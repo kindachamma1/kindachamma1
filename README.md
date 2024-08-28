@@ -26,6 +26,19 @@ I completed my Bachelor's degree in Computer Science at Avignon University, Fran
 <details>
   <summary><h3>Kinda's Coding Journey</h3></summary>
   I started my coding journey during my first year of undergraduate studies. I became particularly interested in operating systems courses because they combined coding logic with concrete examples of the machines we use today. During an exchange program in Sweden, I discovered my passion for cybersecurity. However, after graduating, I decided to specialize in Advanced Machine Learning and Optimization for Sustainable Systems. I believe I can bring an ethical perspective from cybersecurity into the rapidly growing field of machine learning.
-The majority of the code sources that I have completed until now cannot be published because they concern some specific courses and projects.
+  
+The majority of the code sources that I have completed until now cannot be published because they concern some specific courses and projects, however I can show them per request.
+Main projects : 
+<li>
+  <ul><b>Product Recall Android Mobile Application </b>: <i>JAVA</i> | Save/delete/favorite products listed using an API, modify products info.</ul>  
+    <ul><b>Europe Wisdom Project </b>: <i>Python, HTML, JS, SQL </i> | Worked on author name disambiguation, analyzing the proportion of female authors in publications throughout the years, tested the anomalies that could bias the results. </ul>
+  <ul><b>Tic-Tac-Toe Gam</b></ul>: <i>JavaFX and Scene Builder</i> | Two options: Human vs Human and Human vs AI, use an AI to have a difficulty level, use transitions.
+  <ul><b>Software Platform for Monitoring an IT infrastructure</b>: <i>Bash and python</i> | Parse a website and save specific informations, list live alerts, develop a web interface with graphs.</ul>
+  <ul><b> French Robotics Championship '24</b>: <i>Atmega2560, Arduino</i> | Coded the movement of the grippers and the movements of the robot to collect plants and put them where needed. </ul>
+  <ul><b> Robot Arm Color Detector </b>: <i> Atmega2560, Arduino</i> | Used Color Captors to distinguish colors, implemented 3D pieces to create the arm using Fusion360, developed a Bluetooth-enabled color selection application.</ul>
+  <ul><b> Binary Compression/ Decompression</b>: <i>C++</i> | Transformed UTF-8 text into binary and compressed it referring to the concept of trees and lists, vice versa. </ul>
+  <ul><b> Hotel Reservation Website </b>: <i>HTML, CSS, PHP, SQL</i> | Created a website on which we can make hotel reservation within specified dates. Cancelations and modifications are also handled. </ul>
+  
+</li>
 </details>
 
