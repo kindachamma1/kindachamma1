@@ -26,5 +26,6 @@ I completed my Bachelor's degree in Computer Science at Avignon University, Fran
 <details>
   <summary><h3>Kinda's Coding Journey</h3></summary>
   I started my coding journey during my first year of undergraduate studies. I became particularly interested in operating systems courses because they combined coding logic with concrete examples of the machines we use today. During an exchange program in Sweden, I discovered my passion for cybersecurity. However, after graduating, I decided to specialize in Advanced Machine Learning and Optimization for Sustainable Systems. I believe I can bring an ethical perspective from cybersecurity into the rapidly growing field of machine learning.
+The majority of the code sources that I have completed until now cannot be published because they concern some specific courses and projects.
 </details>
 
