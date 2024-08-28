@@ -1,4 +1,4 @@
-** Kinda Chamma (Developper) **
+**Kinda Chamma (Developper)**
 
 I'm a junior software developper sharing my experience throughout my academic journey and personal projects.
 
@@ -13,3 +13,4 @@ I finished my bachelor degree in Computer Science at Avignon University|France, 
 </p>
 
 <h3>Languages and Tools</h3>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
