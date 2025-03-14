@@ -29,6 +29,7 @@ I completed my Bachelor's degree in Computer Science at Avignon University, Fran
   
 The majority of the code sources that I have completed until now cannot be published because they concern some specific courses and projects, however I can show them per request.
 Main projects : 
+  <li><b>Machine Learning and Deep Learning Project </b>: <i>Python</i> | Performed Cleanning and mapping of a dataset on Facebook Metrics. Tuned the hyper-parameters. Applied ML and DL algorithms. </li>
   <li><b>Product Recall Android Mobile Application </b>: <i>Java</i> | Save/delete/favorite products listed using an API, modify products info.</li>
   <li><b>Europe Wisdom Project </b>: <i>Python, HTML, JS, SQL </i> | Worked on author name disambiguation, analyzing the proportion of female authors in publications throughout the years, tested the anomalies that could bias the results.</li>
   <li><b> French Robotics Championship '24</b>: <i>Atmega2560, Arduino</i> | Coded the movement of the grippers and the movements of the robot to collect plants and put them where needed. </li>
